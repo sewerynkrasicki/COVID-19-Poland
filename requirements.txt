@@ -1,7 +1,5 @@
 folium
 pandas
 plotly
-plotly.subplots
-plotly.graph_objects
 ipywidgets
 voila
